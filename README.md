@@ -4,7 +4,6 @@ these are my personal notes
 - This is a bash script i use to start and stop Oracle VirtualBox machines on my homeserver.
 - If it's useful to someone, please enjoy!
 
-![vbox](https://github.com/tommyh1/vbox.sh/blob/346191806befeb7017896e585bd3632a9a534c29/vbox.png)
 
 
 ```bash
